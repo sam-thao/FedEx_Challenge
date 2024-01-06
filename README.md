@@ -1,5 +1,6 @@
 # Transportation Challenge
-Analytics Problem
+
+##Analytics Problem
 
 You are a Business Analyst working for FedEx
 
@@ -12,7 +13,7 @@ The only plane you currenly have at Denver is a Cessna 208B Grand Caravan with a
 Based on this information what is the probability that all of the cargo can be safely loaded onto the plane and transported? 
 
 
-#Our Findings
+##Our Findings
 From our solution that there's a 98.30% can take off using the central limit theorem.
 
 We would advise the client that there is a 98.30% chance the plane can take off. There is also a 1.70% chance the plane will not take off using statistics. 
