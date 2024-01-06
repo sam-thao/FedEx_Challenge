@@ -11,3 +11,5 @@ The only plane you currenly have at Denver is a Cessna 208B Grand Caravan with a
 
 Based on this information what is the probability that all of the cargo can be safely loaded onto the plane and transported? 
 
+From our solution that there's a 98.30% can take off using the central limit theorem
+
