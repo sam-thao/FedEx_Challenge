@@ -34,3 +34,22 @@ Plane Capacity = 2,640 lb
 x crit = 2,640 lb / 36 boxes = 73.06 lb per box
 The boxes each cannot exceed 73.06 lb
 mean = 72 lb, x crit 73.06 lb (to the right)
+
+z = x crit - µX̅ / σX̅ = 73.06 - 72 / .05 = 2.12 std dev away from center
+
+z score = .9830
+
+P(x < xcrit) = .9830 = 98.30%
+
+So the probably of the sample they send us will be less then 73.06 is 98.30%
+
+98.30 chance that the plane can take off
+
+
+
+
+
+
+
+
+
